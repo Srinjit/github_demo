@@ -1,7 +1,6 @@
 This is a sample text file in github_demo.
 //First change made locally.
 //I stay in West Bengal.
-//I work at Persistent Systems.
 What about you?
 I work as an SDE.
 Persistent is a good company.
@@ -11,4 +10,5 @@ It has the headquarters in Pune
 Latest commit in master
 Main commit
 This is bug567.
+
 
